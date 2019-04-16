@@ -9,8 +9,7 @@ const urls = {
 const basicScenario = {
   label: 'test', // name of the test
   url: urls.development,
-  referenceUrl:
-    'https://mate-academy.github.io/layout_solutions/colored-blocks/',
+  referenceUrl: '',
   readyEvent: '',
   readySelector: '',
   delay: 1000,
