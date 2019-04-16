@@ -7,6 +7,7 @@ be blue.
 
 Your browser will add a narrow margin to the `<body>` element by default. Remove 
 it so that there is no space between the edges of the page and the blocks.
+
 ---
 **Read the guideline before start**
 
