@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.block_top {
+  height: 100px;
+  background: red;
+}
+
+.block_middle {
+  height: 100px;
+  background: green;
+}
+
+.block_bottom {
+  height: 100px;
+  background: blue;
+}
