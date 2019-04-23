@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  height: 100px;
+  width: 0 auto;
+}
+
+.redBlock {
+  background-color: red;
+}
+
+.greenBlock {
+  background-color: green;
+}
+
+.blueBlock {
+  background-color: blue;
+}
