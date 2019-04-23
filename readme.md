@@ -17,5 +17,5 @@ You can find some sample screenshots in the [backstop_data/bitmaps_reference](ba
 
 **Result**
 
-[Demo link](https://ilovepinkpony1.github.io/layout_colored-blocks/) <br>
-[Test report](https://ilovepinkpony1.github.io/layout_colored-blocks/report/html_report/)
+[Demo link](https://ilovepinkpony1.github.io/fs_apr19_vitalii_o/) <br>
+[Test report](https://ilovepinkpony1.github.io/fs_apr19_vitalii_o/report/html_report/)
