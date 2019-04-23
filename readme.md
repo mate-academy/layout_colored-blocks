@@ -17,5 +17,5 @@ You can find some sample screenshots in the [backstop_data/bitmaps_reference](ba
 
 **Result**
 
-[Demo link](https://mate-academy.github.io/layout_task-boilerplate-ci/) <br>
-[Test report](https://mate-academy.github.io/layout_task-boilerplate-ci/report/html_report/)
+[Demo link](https://github.com/GitKurmax/layout_colored-blocks) <br>
+[Test report](https://github.com/GitKurmax/layout_colored-blocks/report/html_report/)
