@@ -2,17 +2,17 @@ body {
   margin: 0;
 }
 
-.block_top {
+div {
   height: 100px;
+}
+.block_top {
   background: red;
 }
 
 .block_middle {
-  height: 100px;
   background: green;
 }
 
 .block_bottom {
-  height: 100px;
   background: blue;
 }
