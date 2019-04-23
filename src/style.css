@@ -1,18 +1,17 @@
 body {
   margin: 0;
 }
-
-.top {
+div {
   height: 100px;
+}
+.top {
   background: red;
 }
 
 .mid {
-  height: 100px;
   background: green;
 }
 
 .bot {
-  height: 100px;
   background: blue;
 }
