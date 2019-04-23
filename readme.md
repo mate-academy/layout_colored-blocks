@@ -17,5 +17,5 @@ You can find some sample screenshots in the [backstop_data/bitmaps_reference](ba
 
 **Result**
 
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
+[UPDATE DEMO LINK](https://mate-academy.github.io/layout_solutions/colored-blocks/) <br>
 [UPDATE TEST REPORT LINK](https://mate-academy.github.io/layout_solutions/colored-blocks/)
