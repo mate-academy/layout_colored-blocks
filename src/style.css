@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.top {
+  height: 100px;
+  margin: auto;
+  background: red;
+}
+
+.center {
+  height: 100px;
+  margin: auto;
+  background: green;
+}
+
+.bottom {
+  height: 100px;
+  margin: auto;
+  background: blue;
+}
