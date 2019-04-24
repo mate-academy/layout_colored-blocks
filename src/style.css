@@ -1,0 +1,21 @@
+div.first {
+  background-color: red;
+  height: 100px;
+  width: 100%;
+}
+
+div.second {
+  background-color: green;
+  height: 100px;
+  width: 100%;
+}
+
+div.third {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+}
