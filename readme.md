@@ -13,7 +13,7 @@ You can find some sample screenshots in the [backstop_data/bitmaps_reference](ba
 ---
 **Read the guideline before start**
 
-[Guideline](https://github.com/mate-academy/layout_task-guideline/blob/master/README.md)
+[Guideline](https://mate-academy.github.io/layout_task-guideline/)
 
 **Result**
 
