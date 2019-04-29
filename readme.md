@@ -1,3 +1,9 @@
+### [Demo link](https://onefun1.github.io/layout_colored-blocks/)
+
+### [Test report](https://onefun1.github.io/layout_colored-blocks/report/html_report/)
+
+
+
 # Colored blocks
 
 Display three colored blocks on a page one below another. Each block 
