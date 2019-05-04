@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+}
+
+.red {
+  background-color: red;
+  width: auto;
+  height: 100px;
+}
+
+.green {
+  background-color: green;
+  width: auto;
+  height: 100px;
+}
+
+.blue {
+  background-color: blue;
+  width: auto;
+  height: 100px;
+}
