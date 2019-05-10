@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.block-one {
+  background-color: red;
+  height: 100px;
+}
+
+.block-two {
+  background-color: green;
+  height: 100px;
+}
+
+.block-three {
+  background-color: blue;
+  height: 100px;
+}
