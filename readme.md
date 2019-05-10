@@ -18,4 +18,4 @@ You can find some sample screenshots in the [backstop_data/bitmaps_reference](ba
 **Result**
 
 [UPDATE DEMO LINK](https://sonyua.github.io/layout_colored-blocks/) <br>
-[UPDATE TEST REPORT LINK](https://sonyua.github.io/layout_colored-blocks/backstop_data/html_report/index.html/)
+[UPDATE TEST REPORT LINK](https://sonyua.github.io/layout_colored-blocks/report/html_report/)
