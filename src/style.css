@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.first {
+  height: 100px;
+  width: 100%;
+  background-color: red;
+}
+
+.second {
+  height: 100px;
+  width: 100%;
+  background-color: green;
+}
+
+.third {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+}
