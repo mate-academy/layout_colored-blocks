@@ -1,0 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+div{
+  height: 100px;
+}
+div:first-of-type{
+  background-color: red;
+}
+div:nth-of-type(2){
+  background-color: green;
+}
+div:last-of-type{
+  background-color: blue;
+}
