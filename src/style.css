@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.first {
+  height: 100px;
+  width: 100%;
+  background-color: red;
+  margin: 0;
+}
+
+.second {
+  height: 100px;
+  width: 100%;
+  background-color: green;
+  margin: 0;
+}
+
+.third {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+  margin: 0;
+}
