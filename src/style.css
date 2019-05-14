@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.col_1 {
+  background: red;
+  height: 100px;
+}
+
+.col_2 {
+  background: green;
+  height: 100px;
+}
+
+.col_3 {
+  background: blue;
+  height: 100px;
+}
