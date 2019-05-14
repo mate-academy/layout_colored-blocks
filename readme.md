@@ -1,4 +1,4 @@
-# Colored blocks
+# Colored block
 
 Display three colored blocks on a page one below another. Each block
 must be 100 pixels high and span the entire width of the page.
