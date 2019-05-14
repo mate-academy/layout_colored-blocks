@@ -11,11 +11,12 @@ it so that there is no space between the edges of the page and the blocks.
 You can find some sample screenshots in the [backstop_data/bitmaps_reference](backstop_data/bitmaps_reference) folder.
 
 ---
+
 **Read the guideline before start**
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
 
 **Result**
 
-[UPDATE DEMO LINK](https://jka4.github.io/layout_colored-blocks/) <br>
-[UPDATE TEST REPORT LINK](https://jka4.github.io/<repo_name>/report/html_report/)
+- [ DEMO LINK](https://jka4.github.io/layout_colored-blocks/) <br>
+- [ TEST REPORT LINK](https://jka4.github.io/layout_colored-blocks/report/html_report/)
