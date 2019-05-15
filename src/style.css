@@ -2,17 +2,17 @@ body {
   margin: 0;
 }
 
-.one {
+.first {
   height: 100px;
   background-color: red;
 }
 
-.two {
+.second {
   height: 100px;
   background-color: green;
 }
 
-.three {
+.third {
   height: 100px;
   background-color: blue;
 }
