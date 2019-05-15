@@ -18,5 +18,5 @@ You can find some sample screenshots in the [backstop_data/bitmaps_reference](ba
 
 **Result**
 
-[DEMO LINK](https://lowlifeboy.github.io/layout_colored-blocks/) <br>
-[TEST REPORT LINK](https://lowlifeboy.github.io/layout_colored-blocks/report/html_report/)
+ - [DEMO LINK](https://lowlifeboy.github.io/layout_colored-blocks/) <br>
+ - [TEST REPORT LINK](https://lowlifeboy.github.io/layout_colored-blocks/report/html_report/)
