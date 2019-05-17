@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+section {
+  height: 100px;
+  margin: auto;
+}
+
+#block1 {
+  background-color: red;
+}
+
+#block2 {
+  background-color: green;
+}
+
+#block3 {
+  background-color: blue;
+}
