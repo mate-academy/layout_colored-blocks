@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+div {
+  height: 100px;
+  width: 100%;
+}
+
+.b1 {
+  background-color: red;
+}
+
+.b2 {
+  background-color: green;
+}
+
+.b3 {
+  background-color: blue;
+}
