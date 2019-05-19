@@ -4,17 +4,16 @@
 
 div {
   height: 100px;
-  width: 100%;
 }
 
-.b1 {
+.block-1 {
   background-color: red;
 }
 
-.b2 {
+.block-2 {
   background-color: green;
 }
 
-.b3 {
+.block-3 {
   background-color: blue;
 }
