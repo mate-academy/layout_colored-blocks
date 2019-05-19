@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  height: 100px;
+}
+
+.top-block {
+  background: red;
+}
+
+.middle-block {
+  background: green;
+}
+
+.bottom-block {
+  background: blue;
+}
