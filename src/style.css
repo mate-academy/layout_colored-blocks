@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+}
+
+#box1 {
+  height: 100px;
+  width: auto;
+  background-color: red;
+}
+
+#box2 {
+  height: 100px;
+  width: auto;
+  background-color: green;
+}
+
+#box3 {
+  height: 100px;
+  width: auto;
+  background-color: blue;
+}
