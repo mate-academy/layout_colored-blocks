@@ -18,4 +18,4 @@ You can find some sample screenshots in the [backstop_data/bitmaps_reference](ba
 **Result**
 
 [LINK](https://tarasprocishin.github.io/layout_colored-blocks/) <br>
-[TEST REPORT LINK](file:///home/taras/stadyMateAcademy/layout_colored-blocks/backstop_data/html_report/index.html/)
+[TEST REPORT LINK]((https://tarasprocishin.github.io/layout_colored-blocks/report/html_report/))
