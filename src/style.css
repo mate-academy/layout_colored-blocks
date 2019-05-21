@@ -3,17 +3,18 @@ body {
   padding: 0;
 }
 
+div {
+  height: 100px;
+}
+
 .col_1 {
   background: red;
-  height: 100px;
 }
 
 .col_2 {
   background: green;
-  height: 100px;
 }
 
 .col_3 {
   background: blue;
-  height: 100px;
 }
