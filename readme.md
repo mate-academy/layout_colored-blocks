@@ -1,2 +1,2 @@
-[Demo link](https://github.com/greencodeio/layout_colored-blocks/tree/fe_mar19_igor/src/index.html)  
-[Test report](https://github.com/greencodeio/layout_colored-blocks/tree/gh-pages/report/html_report/index.html)
+-[Demo link](https://greencodeio.github.io/layout_colored-blocks/)  
+-[Test report](https://greencodeio.github.io/layout_colored-blocks/report/html_report/index.html)
