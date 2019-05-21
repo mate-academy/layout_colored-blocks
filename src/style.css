@@ -2,20 +2,18 @@ body {
   margin: 0 auto;
 }
 
-#box1 {
+div {
   height: 100px;
-  width: auto;
+}
+
+#box1 {
   background-color: red;
 }
 
 #box2 {
-  height: 100px;
-  width: auto;
   background-color: green;
 }
 
 #box3 {
-  height: 100px;
-  width: auto;
   background-color: blue;
 }
