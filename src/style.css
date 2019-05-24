@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100px;
+}
+
+.container-red {
+  background-color: red;
+}
+
+.container-green {
+  background-color: green;
+}
+
+.container-blue {
+  background-color: blue;
+}
