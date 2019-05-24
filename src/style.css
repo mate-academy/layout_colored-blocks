@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0 ;
+  padding: 0 ;
+}
+
+.block {
+  height: 100px ;
+  width: 100% ;
+  background: #131313 ;
+}
+
+.block:nth-child(1) {
+  background: red ;
+}
+
+.block:nth-child(2) {
+  background: green ;
+}
+
+.block:nth-child(3) {
+  background: blue ;
+}
