@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.item_1 {
+  height: 100px;
+  background-color: red;
+}
+
+.item_2 {
+  height: 100px;
+  background-color: green;
+}
+
+.item_3 {
+  height: 100px;
+  background-color: blue;
+}
