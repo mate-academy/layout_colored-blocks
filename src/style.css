@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.red-block {
+  background-color: red;
+  height: 100px;
+  width: 100%;
+}
+
+.green-block {
+  background-color: green;
+  height: 100px;
+  width: 100%;
+}
+
+.blue-block {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+}
