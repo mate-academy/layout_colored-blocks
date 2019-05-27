@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.box_1 {
+  height: 100px;
+  background-color: red;
+}
+
+.box_2 {
+  height: 100px;
+  background-color: green;
+}
+
+.box_3 {
+  height: 100px;
+  background-color: blue;
+}
