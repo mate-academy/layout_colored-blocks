@@ -1,0 +1,21 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  height: 100px;
+  width: auto;
+}
+
+#one {
+  background-color: red;
+}
+
+#two {
+  background-color: green;
+}
+
+#three {
+  background-color: blue;
+}
