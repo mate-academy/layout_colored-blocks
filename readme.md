@@ -17,5 +17,6 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 
 **Result**
 
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+-[DEMO LINK](https://github.com/h2ash/layout_colored-blocks/tree/fs_may19_artem/) <br>
+-[TEST REPORT LINK](https://h2ash.github.io/layout_colored-blocks/report/html_report/) 
+
