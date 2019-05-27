@@ -17,5 +17,5 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 
 **Result**
 
-[DEMO LINK](https://github.com/AnnaKuvarina/layout_colored-blocks/) <br>
-[TEST REPORT LINK](https://github.com/AnnaKuvarina/layout_colored-blocks/report/html_report/)
+[DEMO LINK]( https://annakuvarina.github.io/layout_colored-blocks/) <br>
+[TEST REPORT LINK]( https://annakuvarina.github.io/layout_colored-blocks/report/html_report/)
