@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.red-colored-box {
+  background: red;
+}
+
+.green-colored-box {
+  background: green;
+}
+
+.blue-colored-box {
+  background: blue;
+}
+
+.standard-size {
+  width: auto;
+  height: 100px;
+}
