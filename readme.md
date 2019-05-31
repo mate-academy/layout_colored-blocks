@@ -1,3 +1,9 @@
+**Result**
+
+[DEMO LINK](https://tolyaruban.github.io/layout_colored-blocks/) <br>
+[TEST REPORT LINK](https://tolyaruban.github.io/layout_colored-blocks/report/html_report/)
+
+---
 # Colored blocks
 
 Display three colored blocks on a page one below another. Each block 
@@ -14,8 +20,3 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 **Read the guideline before start**
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
-
-**Result**
-
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
