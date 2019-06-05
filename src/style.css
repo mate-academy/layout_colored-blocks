@@ -1,0 +1,21 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  height: 100px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
