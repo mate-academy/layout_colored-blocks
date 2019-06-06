@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.block {
+  height: 100px;
+  background: dimgray;
+}
+
+.block_theme-red {
+  background: red;
+}
+
+.block_theme-green {
+  background: green;
+}
+
+.block_theme-blue {
+  background: blue;
+}
