@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.block-container {
+  width: 100%;
+}
+
+.block {
+  height: 100px;
+  width: 100%;
+}
+
+.block__red {
+  background: red;
+}
+
+.block__green {
+  background: green;
+}
+
+.block__blue {
+  background: blue;
+}
