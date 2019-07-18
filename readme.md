@@ -17,5 +17,5 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 
 **Result**
 
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[UPDATE DEMO LINK](https://artem-kumskov.github.io/layout_colored-blocks/) <br>
+[UPDATE TEST REPORT LINK](https://github.com/Artem-Kumskov/layout_colored-blocks/tree/gh-pages/report/html_report)
