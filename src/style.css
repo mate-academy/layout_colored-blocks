@@ -1,0 +1,24 @@
+.first {
+  background: red;
+  height: 100px;
+  width: 100%;
+  margin: 0;
+}
+
+.second {
+  background: green;
+  height: 100px;
+  width: 100%;
+  margin: 0;
+}
+
+.third {
+  background: blue;
+  height: 100px;
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+}
