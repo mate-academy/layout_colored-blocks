@@ -1,0 +1,17 @@
+body {
+	margin: 0px;
+}
+
+#red {
+	background-color: red;
+}
+#green {
+	background-color: green;
+}
+#blue {
+	background-color: blue;
+} 
+
+div {
+	height: 100px;
+}
