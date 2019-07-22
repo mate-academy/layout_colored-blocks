@@ -1,0 +1,22 @@
+#first {
+  height: 100px;
+  width: 100%;
+  background-color: red;
+}
+
+#second {
+  height: 100px;
+  width: 100%;
+  background-color: green;
+}
+
+#third {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
