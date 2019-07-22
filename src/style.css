@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+}
+
+[class*="item-"] {
+  height: 100px;
+  width: 100%;
+}
+
+.item-1 {
+  background: red;
+}
+
+.item-2 {
+  background: green;
+}
+
+.item-3 {
+  background: blue;
+}
+
+
