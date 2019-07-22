@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.conteiner {
+  display: grid;
+  grid-template-rows: repeat(3, 100px);
+  grid-template-columns: 100%;
+}
+
+.block:nth-child(1) {
+  background-color: red;
+}
+
+.block:nth-child(2) {
+  background-color: green;
+}
+
+.block:nth-child(3) {
+  background-color: blue;
+}
