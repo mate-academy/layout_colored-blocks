@@ -1,4 +1,8 @@
-.height {
+body {
+  margin: 0;
+}
+
+.block-height {
   height: 100px;
 }
 
@@ -12,8 +16,4 @@
 
 .third {
   background-color: blue;
-}
-
-body {
-  margin: 0;
 }
