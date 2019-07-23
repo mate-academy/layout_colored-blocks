@@ -1,22 +1,18 @@
 body {
-
   margin: 0;
 }
 
 .block__red {
-
   height: 100px;
   background-color: red;
 }
 
 .block__green {
-
   height: 100px;
   background-color: green;
 }
 
 .block__blue {
-
   height: 100px;
   background-color: blue;
 }
