@@ -8,7 +8,7 @@ body {
 }
 
 .red {
-  background: #ff0000;
+  background: #f00;
 }
 
 .green {
@@ -16,5 +16,5 @@ body {
 }
 
 .blue {
-  background: #0000ff;
+  background: #00f;
 }
