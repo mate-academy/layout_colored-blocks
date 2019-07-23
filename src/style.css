@@ -1,19 +1,20 @@
-.first {
+.common_div {
   height: 100px;
+}
+
+.common_div.first {
   background-color: red;
 }
 
-.second {
-  height: 100px;
+.common_div.second {
   background-color: green;
 }
 
-.third {
-  height: 100px;
+.common_div.third {
   background-color: blue;
 }
 
-.forBody {
+body {
   margin: 0;
   padding: 0;
 }
