@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
-div.red {
+div {
   height: 100px;
+}
+
+.red {
   background-color: red;
 }
 
-div.green {
-  height: 100px;
+.green {
   background-color: green;
 }
 
-div.blue {
+.blue {
   background-color: blue;
-  height: 100px;
 } 
