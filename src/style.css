@@ -4,17 +4,16 @@ body {
 
 .conteiner {
   height: 100px;
-  width: 100%;
 }
 
-.c1 {
+.div-top {
   background-color: red;
 }
 
-.c2 {
+.div-middle {
   background-color: green;
 }
 
-.c3 {
+.div-bottom {
   background-color: blue;
 }
