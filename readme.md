@@ -14,4 +14,4 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 
 [DEMO LINK](https://voronok16.github.io/layout_colored-blocks/) <br>
 [TEST REPORT LINK](https://voronok16.github.io/layout_colored-blocks/report/html_report/)<br>
-[PR] (https://github.com/mate-academy/layout_colored-blocks/pull/169)
+[PR](https://github.com/mate-academy/layout_colored-blocks/pull/169)
