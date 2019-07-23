@@ -1,20 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .common_div {
   height: 100px;
 }
 
-.common_div.first {
+.first {
   background-color: red;
 }
 
-.common_div.second {
+.second {
   background-color: green;
 }
 
-.common_div.third {
+.third {
   background-color: blue;
-}
-
-body {
-  margin: 0;
-  padding: 0;
 }
