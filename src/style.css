@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.block_1 {
+  background-color: red;
+}
+
+.block_2 {
+  background-color: green;
+}
+
+.block_3 {
+  background-color: blue;
+}
+
+.block_1,
+.block_2,
+.block_3 {
+  height: 100px;
+  width: 100%;
+}
