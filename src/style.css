@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.color-block {
+  width: 100vw;
+  height: 100px;
+}
+
+.color-block:nth-of-type(1) {
+  background-color: red;
+}
+
+.color-block:nth-of-type(2) {
+  background-color: green;
+}
+
+.color-block:nth-of-type(3) {
+  background-color: blue;
+}
