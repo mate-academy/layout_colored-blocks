@@ -19,4 +19,4 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 
 * [UPDATE DEMO LINK](https://igaryok.github.io/layout_colored-blocks/)
 * [UPDATE TEST REPORT LINK](https://igaryok.github.io/layout_colored-blocks/report/html_report/)
-* [PR] (https://github.com/mate-academy/layout_colored-blocks/pull/170)
+* [PR](https://github.com/mate-academy/layout_colored-blocks/pull/170)
