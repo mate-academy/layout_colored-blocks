@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.conteiner {
+  height: 100px;
+  width: 100%;
+}
+
+.c1 {
+  background-color: red;
+}
+
+.c2 {
+  background-color: green;
+}
+
+.c3 {
+  background-color: blue;
+}
