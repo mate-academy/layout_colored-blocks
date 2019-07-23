@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.redBg {
+.red-bg {
   background-color: red;
 }
 
-.greenBg {
+.green-bg {
   background-color: green;
 }
 
-.blueBg {
+.blue-bg {
   background-color: blue;
 }
