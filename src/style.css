@@ -1,20 +1,20 @@
 body {
-  margin: 0px;
+  margin: 0;
 }
 
-[class*="item-"] {
+.block {
   height: 100px;
   width: 100%;
 }
 
-.item-1 {
-  background: red;
+.red.block {
+  background-color: red;
 }
 
-.item-2 {
-  background: green;
+.green.block {
+  background-color: green;
 }
 
-.item-3 {
-  background: blue;
+.blue.block {
+  background-color: blue;
 }
