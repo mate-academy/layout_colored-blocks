@@ -18,4 +18,4 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 **Result**
 
 [GH-pages "Colored blocks](https://vladyslavsak.github.io/layout_colored-blocks/) <br>
-[CSS test "Colored blocks](file:///C:/Users/Vladyslav/Desktop/projects/layout_colored-blocks/backstop_data/html_report/index.html)
+[CSS test "Colored blocks](https://vladyslavsak.github.io/layout_colored-blocks/report/html_report/)
