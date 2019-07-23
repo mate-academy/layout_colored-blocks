@@ -1,0 +1,20 @@
+.div-height {
+  height: 100px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.first-container {
+  background-color: red;
+}
+
+.second-container {
+  background-color: green;
+}
+
+.third-container {
+  background-color: blue;
+}
