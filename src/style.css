@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
-#red {
+[class~="block"] {
+  height: 100px;
+}
+
+.first-block {
   background-color: red;
-  height: 100px;
 }
 
-#green {
+.second-block {
   background-color: green;
-  height: 100px;
 }
 
-#blue {
+.third-block {
   background-color: blue;
-  height: 100px;
 }
