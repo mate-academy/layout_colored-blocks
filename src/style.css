@@ -1,21 +1,19 @@
-html,
 body {
   margin: 0;
 }
 
 .colors {
   height: 100px;
-  width: 100%;
 }
 
 .red {
-  background: red;
+  background-color: red;
 }
 
 .green {
-  background: green;
+  background-color: green;
 }
 
 .blue {
-  background: blue;
+  background-color: blue;
 }
