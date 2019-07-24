@@ -1,22 +1,18 @@
-.first {
-  background: red;
+.row {
   height: 100px;
   width: 100%;
-  margin: 0;
+}
+
+.first {
+  background: red;
 }
 
 .second {
   background: green;
-  height: 100px;
-  width: 100%;
-  margin: 0;
 }
 
 .third {
   background: blue;
-  height: 100px;
-  width: 100%;
-  margin: 0;
 }
 
 body {
