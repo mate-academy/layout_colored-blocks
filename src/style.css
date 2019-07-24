@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-[class~="block"] {
+[class*="block"] {
   height: 100px;
 }
 
