@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  height: 100px;
+}
+
+.col_1 {
+  background: red;
+}
+
+.col_2 {
+  background: green;
+}
+
+.col_3 {
+  background: blue;
+}
