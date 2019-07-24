@@ -3,18 +3,18 @@
   padding: 0;
 }
 
-body div {
+div {
   min-height: 100px;
 }
 
-.red {
+.block-1 {
   background-color: red;
 }
 
-.green {
+.block-2 {
   background-color: green;
 }
 
-.blue {
+.block-3 {
   background-color: blue;
 }
