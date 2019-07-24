@@ -14,9 +14,6 @@ body {
   background-color: blue;
 }
 
-.block_1,
-.block_2,
-.block_3 {
+.type {
   height: 100px;
-  width: 100%;
 }
