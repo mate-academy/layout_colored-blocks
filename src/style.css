@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.top {
+  height: 100px;
+  background-color: red;
+}
+
+.middle {
+  height: 100px;
+  background-color: green;
+}
+
+.bottom {
+  height: 100px;
+  background-color: blue;
+}
