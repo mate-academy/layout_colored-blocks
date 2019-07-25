@@ -1,0 +1,19 @@
+.for-everybody {
+  margin: 0;
+}
+
+.every-block {
+  height: 100px;
+}
+
+.top {
+  background-color: red;
+}
+
+.middle {
+  background-color: green;
+}
+
+.bottom {
+  background-color: blue;
+}
