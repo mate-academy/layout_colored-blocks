@@ -1,19 +1,19 @@
+body {
+  margin: 0;
+}
+
 .row {
   height: 100px;
 }
 
 .first {
-  background: red;
+  background-color: red;
 }
 
 .second {
-  background: green;
+  background-color: green;
 }
 
 .third {
-  background: blue;
-}
-
-body {
-  margin: 0;
+  background-color: blue;
 }
