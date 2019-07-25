@@ -1,8 +1,8 @@
-* {
+body {
   margin: 0;
 }
 
-body div {
+.coloured {
   width: 100%;
   height: 100px;
 }
