@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
-.top {
+.line {
   height: 100px;
+}
+
+.top {
   background-color: red;
 }
 
 .middle {
-  height: 100px;
   background-color: green;
 }
 
 .bottom {
-  height: 100px;
   background-color: blue;
 }
