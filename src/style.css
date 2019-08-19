@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.conteiner {
+  height: 100px;
+}
+
+.div-top {
+  background-color: red;
+}
+
+.div-middle {
+  background-color: green;
+}
+
+.div-bottom {
+  background-color: blue;
+}
