@@ -2,19 +2,18 @@ body {
   margin: 0;
 }
 
-.block {
+.layer {
   height: 100px;
-  width: 100%;
 }
 
-.red {
+.layer-red {
   background-color: red;
 }
 
-.green {
+.layer-green {
   background-color: green;
 }
 
-.blue {
+.layer-blue {
   background-color: blue;
 }
