@@ -2,17 +2,17 @@ body {
   margin: 0 auto;
 }
 
-.one {
+.red {
   background-color: #f00;
   height: 100px;
 }
 
-.two {
+.green {
   background-color: #008000;
   height: 100px;
 }
 
-.three {
+.blue {
   background-color: #00f;
   height: 100px;
 }
