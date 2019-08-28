@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
-.a {
+.first {
   background-color: red;
-  height: 100px;
 }
 
-.b {
+.second {
   background-color: green;
-  height: 100px;
 }
 
-.c {
+.third {
   background-color: blue;
+}
+
+.heigh {
   height: 100px;
 }
