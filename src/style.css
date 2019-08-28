@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.layer {
+  height: 100px;
+}
+
+.layer-red {
+  background-color: red;
+}
+
+.layer-green {
+  background-color: green;
+}
+
+.layer-blue {
+  background-color: blue;
+}
