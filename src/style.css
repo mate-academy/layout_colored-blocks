@@ -1,19 +1,19 @@
 body {
-  margin-top: 0;
+  margin: 0 auto;
 }
 
-.blockHeight {
+.block {
   height: 100px;
 }
 
-.redColor {
+#red-block {
   background-color: red;
 }
 
-.greenColor {
+#green-block {
   background-color: green;
 }
 
-.blueColor {
+#blue-block {
   background-color: blue;
 }
