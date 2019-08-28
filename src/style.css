@@ -2,18 +2,18 @@ body {
   margin: 0;
 }
 
-.blockHeight {
+.block {
   height: 100px;
 }
 
-.colorRed {
+.red-block {
   background-color: red;
 }
 
-.colorGreen {
+.green-block {
   background-color: green;
 }
 
-.colorBlue {
+.blue-block {
   background-color: blue;
 }
