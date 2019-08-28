@@ -6,20 +6,18 @@ body {
   height: 300px;
 }
 
+.block {
+  height: 100px;
+}
+
 .red-block {
   background-color: red;
-  width: 100%;
-  height: 100px;
 }
 
 .green-block {
   background-color: green;
-  width: 100%;
-  height: 100px;
 }
 
 .blue-block {
   background-color: blue;
-  width: 100%;
-  height: 100px;
 }
