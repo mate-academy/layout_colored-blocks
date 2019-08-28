@@ -1,0 +1,18 @@
+body {
+  margin: 0 auto;
+}
+
+.one {
+  background-color: #f00;
+  height: 100px;
+}
+
+.two {
+  background-color: #008000;
+  height: 100px;
+}
+
+.three {
+  background-color: #00f;
+  height: 100px;
+}
