@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.blockHeight {
+  height: 100px;
+}
+
+.colorRed {
+  background-color: red;
+}
+
+.colorGreen {
+  background-color: green;
+}
+
+.colorBlue {
+  background-color: blue;
+}
