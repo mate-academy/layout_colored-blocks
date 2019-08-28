@@ -1,0 +1,21 @@
+.red {
+  background: red;
+  padding-top: 50px;
+  padding-bottom: 51px;
+  margin-top: -10px;
+  margin-left: -10px;
+}
+
+.green {
+  background-color: green;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: -10px;
+}
+
+.blue {
+  background-color: blue;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: -10px;
+}
