@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.topBlock {
+.top-block {
   background-color: red;
 }
 
-.middleBlock {
+.middle-block {
   background-color: green;
 }
 
-.bottomBlock {
+.bottom-block {
   background-color: blue;
 }
