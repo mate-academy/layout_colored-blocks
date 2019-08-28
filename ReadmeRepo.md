@@ -1,2 +1,2 @@
-[Demo link](https://<your_account>.github.io/<repo_name>/)
-[Test report](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[Demo link](https://kostya-flern.github.io/layout_colored-blocks/)
+[Test report](https://kostya-flern.github.io/layout_colored-blocks/report/html_report/)
