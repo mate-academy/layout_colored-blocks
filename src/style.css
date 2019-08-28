@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .redBlock {
   height: 100px;
   background-color: red;
@@ -8,7 +12,7 @@
   background-color: green;
 }
 
-.blueBlock {
+.blue-block {
   height: 100px;
   background-color: blue;
 }
