@@ -18,4 +18,4 @@ You can find some sample screenshots in the `backstop_data/bitmaps_reference` fo
 **Result**
 
 [DEMO LINK](https://mmashivskij.github.io/layout_colored-blocks/) <br>
-[TEST REPORT LINK](https://mmashivskij.github.io/layout_colored-blocks/html_report/)
+[TEST REPORT LINK](https://mmashivskij.github.io/layout_colored-blocks/report/html_report/)
