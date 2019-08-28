@@ -1,0 +1,14 @@
+.redBlock {
+  height: 100px;
+  background-color: red;
+}
+
+.greenBlock {
+  height: 100px;
+  background-color: green;
+}
+
+.blueBlock {
+  height: 100px;
+  background-color: blue;
+}
