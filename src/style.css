@@ -7,14 +7,14 @@ body {
   width: 100%;
 }
 
-.red {
+.first {
   background-color: red;
 }
 
-.green {
+.second {
   background-color: green;
 }
 
-.blue {
+.third {
   background-color: blue;
 }
