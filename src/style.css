@@ -1,0 +1,19 @@
+.Top {
+  background-color: red;
+  height: 100px;
+
+}
+
+.Middle {
+  background-color: green;
+  height: 100px;
+}
+
+.Bottom {
+  background-color: blue;
+  height: 100px;
+}
+
+body {
+  margin: 0;
+}
