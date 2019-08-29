@@ -7,14 +7,14 @@ body {
   width: 100%;
 }
 
-.first {
+.itema {
   background-color: red;
 }
 
-.second {
+.itemb {
   background-color: green;
 }
 
-.third {
+.itemc {
   background-color: blue;
 }
