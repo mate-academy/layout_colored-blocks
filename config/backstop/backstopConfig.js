@@ -19,7 +19,7 @@ const config = {
       ...basicScenario,
       label: 'Entire document',
       referenceUrl: basicScenario.referenceUrl + '/colored-blocks/',
-    },,
+    },
   ],
 };
 
