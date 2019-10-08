@@ -1,20 +1,12 @@
 'use strict';
-
 // https://github.com/garris/BackstopJS#advanced-scenarios
 
 const backstop = require('@mate-academy/backstop-config');
-
 const { basicScenario } = backstop;
-
-const basic = {
-  ...basicScenario,
-  label: 'Elementary test',
-  referenceUrl:
-    'https://mate-academy.github.io/layout_solutions/colored-blocks/',
-};
 
 const config = {
   ...backstop,
+  fileNameTemplate: '{scenarioLabel}',
   viewports: [
     {
       name: 'tablet_h',
@@ -24,9 +16,10 @@ const config = {
   ],
   scenarios: [
     {
-      ...basic,
-      selectors: ['body'],
-    },
+      ...basicScenario,
+      label: 'Entire document',
+      referenceUrl: basicScenario.referenceUrl + '/colored-blocks/',
+    },,
   ],
 };
 
