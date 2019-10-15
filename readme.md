@@ -1,6 +1,6 @@
 # Colored blocks
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://igroskiy.github.io/layout_colored-blocks/)
+    - [DEMO LINK](https://igorskiy.github.io/layout_colored-blocks/)
     - [TEST REPORT LINK](https://igorskiy.github.io/layout_colored-blocks/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
