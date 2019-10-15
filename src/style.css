@@ -2,19 +2,18 @@ body {
   margin: 0;
 }
 
-div {
+.common {
   height: 100px;
-  width: 100%;
 }
 
-#red {
+.red {
   background-color: red;
 }
 
-#green {
+.green {
   background-color: green;
 }
 
-#blue {
+.blue {
   background-color: blue;
 }
