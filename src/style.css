@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+.block {
+  height: 100px;
+}
+
 .red-block {
   background: red;
   height: 100px;
