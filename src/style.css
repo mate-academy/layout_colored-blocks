@@ -1,18 +1,19 @@
 .red {
   background: red;
-  height: 100px;
 }
 
 .green {
   background: green;
-  height: 100px;
 }
 
 .blue {
   background: blue;
-  height: 100px;
 }
 
 body {
   margin: 0;
+}
+
+.block {
+  height: 100px;
 }
