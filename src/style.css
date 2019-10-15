@@ -3,9 +3,7 @@ body {
 }
 
 .block {
-  display: block;
   height: 100px;
-  width: auto;
 }
 
 .red {
