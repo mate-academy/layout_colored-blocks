@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  width: 100%;
+  height: 100px;
+  background-color: red;
+}
+
+.middle {
+  width: 100%;
+  height: 100px;
+  background-color: green;
+}
+
+.bottom {
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+}
