@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#red{
+    background: red;
+    height: 100px;
+    width: 100%;
+}
+#green{
+    background: green;
+    height: 100px;
+    width: 100%;
+}
+#blue{
+    background: blue;
+    height: 100px;
+    width: 100%;
+}
