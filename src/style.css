@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
+.blocks {
+  height: 100px;
+}
+
 .block1 {
   background: red;
-  height: 100px;
 }
 
 .block2 {
   background: green;
-  height: 100px;
 }
 
 .block3 {
   background: blue;
-  height: 100px;
 }
