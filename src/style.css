@@ -6,14 +6,14 @@ div {
   height: 100px;
 }
 
-#red {
+.top {
   background-color: red;
 }
 
-#green {
+.middle {
   background-color: green;
 }
-  
-#blue {
+
+.bottom {
   background-color: blue;
-} 
+}
