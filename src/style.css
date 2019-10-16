@@ -1,22 +1,19 @@
 body {
   margin: 0;
-  padding: 0;
 }
 
 .block {
-  width: 100%;
   height: 100px;
+}
+
+.block__first {
   background-color: red;
 }
 
-.middle {
-  width: 100%;
-  height: 100px;
+.block__middle {
   background-color: green;
 }
 
-.bottom {
-  width: 100%;
-  height: 100px;
+.block__bottom {
   background-color: blue;
 }
