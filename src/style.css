@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.red {
+.common--top {
   background-color: red;
 }
 
-.green {
+.common--middle {
   background-color: green;
 }
 
-.blue {
+.common--bottom {
   background-color: blue;
 }
