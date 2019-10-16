@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.common {
+  height: 100px;
+}
+
+.common--top {
+  background-color: red;
+}
+
+.common--middle {
+  background-color: green;
+}
+
+.common--bottom {
+  background-color: blue;
+}
