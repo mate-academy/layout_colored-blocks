@@ -4,17 +4,16 @@ body {
 
 div {
   height: 100px;
-  width: 100%;
 }
 
-#one {
+.firstBlock {
   background-color: red;
 }
 
-#two {
+.secondBlock {
   background-color: green;
 }
 
-#tree {
+.thirdBlock {
   background-color: blue;
 }
