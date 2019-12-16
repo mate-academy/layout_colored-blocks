@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+div {
+  height: 100px;
+}
+
+.num1 {
+  background: red;
+}
+
+.num2 {
+  background: green;
+}
+
+.num3 {
+  background: blue;
+}
