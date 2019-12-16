@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+div {
+  height: 100px;
+  margin: 0;
+
+}
+
+.b1 {
+  background-color: red;
+}
+
+.b2 {
+  background-color: green;
+}
+
+.b3 {
+  background-color: blue;
+}
