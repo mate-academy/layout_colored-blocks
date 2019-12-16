@@ -2,22 +2,17 @@ body {
   margin: 0;
 }
 
-h1 {
-  display: none;
-}
-
-div {
-  height: 100px;
-}
-
 .red-block {
   background-color: red;
+  height: 100px;
 }
 
 .green-block {
   background-color: green;
+  height: 100px;
 }
 
 .blue-block {
   background-color: blue;
+  height: 100px;
 }
