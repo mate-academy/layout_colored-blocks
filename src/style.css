@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-.blocks > div {
+.block {
   height: 100px;
 }
 
