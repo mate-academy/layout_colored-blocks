@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+#top {
+  width: auto;
+  height: 100px;
+  background-color: red;
+}
+
+#middle {
+  width: auto;
+  height: 100px;
+  background-color: green;
+}
+
+#bottom {
+  width: auto;
+  height: 100px;
+  background-color: blue;
+}
