@@ -4,17 +4,16 @@ body {
 
 div {
   height: 100px;
-  width: 100%;
 }
 
-.redBox {
+.red-Box {
   background-color: red;
 }
 
-.greenBox {
+.green-Box {
   background-color: green;
 }
 
-.blueBox {
+.blue-Box {
   background-color: blue;
 }
