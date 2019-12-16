@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+div {
+  height: 100px;
+  width: 100%;
+}
+
+.redBox {
+  background-color: red;
+}
+
+.greenBox {
+  background-color: green;
+}
+
+.blueBox {
+  background-color: blue;
+}
