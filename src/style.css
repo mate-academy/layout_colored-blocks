@@ -1,14 +1,14 @@
 .top {
   height: 100px;
-  color: red;
+  background-color: red;
 }
 
 .middle {
   height: 100px;
-  color: green;
+  background-color: green;
 }
 
 .bottom {
   height: 100px;
-  color: blue;
+  background-color: blue;
 }
