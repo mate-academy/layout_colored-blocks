@@ -1,21 +1,19 @@
+body {
+  margin: 0;
+}
+
 .red {
   background: red;
-  height: 100px;
-  width: auto;
 }
 
 .green {
   background: green;
-  height: 100px;
-  width: auto;
 }
 
 .blue {
   background: blue;
-  height: 100px;
-  width: auto;
 }
 
-body {
-  margin: 0;
+.height_Block {
+  height: 100px;
 }
