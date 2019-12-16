@@ -2,18 +2,18 @@ body {
   margin: 0;
 }
 
-div {
+.height_element {
   height: 100px;
 }
 
-.first_rect {
+.block-red {
   background-color: red;
 }
 
-.second_rect {
+.block-green {
   background-color: green;
 }
 
-.third_rect {
+.block-blue {
   background-color: blue;
 }
