@@ -4,13 +4,15 @@ body {
 }
 
 div {
-  width: 100%;
   height: 100px;
-  background: green;
 }
 
 .top {
   background: #f00;
+}
+
+.middle {
+  background: green;
 }
 
 .bottom {
