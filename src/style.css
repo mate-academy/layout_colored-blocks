@@ -1,19 +1,18 @@
-body {
+.blocks {
   margin: 0;
-}
-
-div {
-  height: 100px;
 }
 
 .redBlock {
   background-color: red;
+  height: 100px;
 }
 
 .greenBlock {
   background-color: green;
+  height: 100px;
 }
 
 .blueBlock {
   background-color: blue;
+  height: 100px;
 }
