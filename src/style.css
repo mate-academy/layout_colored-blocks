@@ -3,18 +3,17 @@ body {
 }
 
 div {
-  width: 100%;
   height: 100px;
 }
 
-.color-red {
+.block-red {
   background-color: red;
 }
 
-.color-green {
+.block-green {
   background-color: green;
 }
 
-.color-blue {
+.block-blue {
   background-color: blue;
 }
