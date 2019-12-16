@@ -2,20 +2,18 @@ body {
   margin: 0;
 }
 
-.b-1 {
+div {
+  height: 100px;
+}
+
+.redBlock {
   background-color: red;
-  width: 100%;
-  height: 100px;
 }
 
-.b-2 {
+.greenBlock {
   background-color: green;
-  width: 100%;
-  height: 100px;
 }
 
-.b-3 {
+.blueBlock {
   background-color: blue;
-  width: 100%;
-  height: 100px;
 }
