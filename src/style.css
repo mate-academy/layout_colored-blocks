@@ -1,14 +1,12 @@
-* {
+body {
   margin: 0;
-  padding: 0;
 }
 
 .block {
   height: 100px;
-  width: 100%;
 }
 
-.blockRed {
+.blockkRed {
   background-color: red;
 }
 
