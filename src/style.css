@@ -7,14 +7,14 @@ body {
   height: 100px;
 }
 
-.block--red {
+.block-red {
   background-color: red;
 }
 
-.block--green {
+.block-green {
   background-color: green;
 }
 
-.block--blue {
+.block-blue {
   background-color: blue;
 }
