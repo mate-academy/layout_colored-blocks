@@ -2,10 +2,7 @@ body {
   margin: 0;
 }
 
-.red,
-.green,
-.blue {
-  width: 100%;
+.block {
   height: 100px;
 }
 
