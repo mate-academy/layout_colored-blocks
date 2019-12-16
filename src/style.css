@@ -2,20 +2,18 @@ body {
   margin: 0;
 }
 
-#top {
-  width: auto;
+div {
   height: 100px;
+}
+
+.t_block {
   background-color: red;
 }
 
-#middle {
-  width: auto;
-  height: 100px;
+.m_block {
   background-color: green;
 }
 
-#bottom {
-  width: auto;
-  height: 100px;
+.b_block {
   background-color: blue;
 }
