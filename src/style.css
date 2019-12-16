@@ -4,18 +4,18 @@ body {
 
 div {
   height: 100px;
-  margin: 0;
+  
 
 }
 
-.b1 {
+.block1 {
   background-color: red;
 }
 
-.b2 {
+.block2 {
   background-color: green;
 }
 
-.b3 {
+.block3 {
   background-color: blue;
 }
