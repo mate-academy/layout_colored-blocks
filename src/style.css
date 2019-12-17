@@ -5,15 +5,16 @@ body {
 
 .red {
   background-color: red;
-  height: 100px;
 }
 
 .green {
   background-color: green;
-  height: 100px;
 }
 
 .blue {
   background-color: blue;
+}
+
+.block-height {
   height: 100px;
 }
