@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+div {
+  height: 100px;
+}
+
+.top-red {
+  background: red;
+}
+
+.mid-green {
+  background: green;
+}
+
+.button-blue {
+  background: blue;
+}
