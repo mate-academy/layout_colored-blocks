@@ -2,18 +2,18 @@ body {
   margin: 0;
 }
 
-div {
+.height-block {
   height: 100px;
 }
 
-.t_block {
+.top-block {
   background-color: red;
 }
 
-.m_block {
+.mid-block {
   background-color: green;
 }
 
-.b_block {
+.bot-block {
   background-color: blue;
 }
