@@ -6,14 +6,14 @@
   height: 100px;
 }
 
-#redBlock {
+.redBlock {
   background-color: red;
 }
 
-#greenBlock {
+.greenBlock {
   background-color: green;
 }
 
-#blueBlock {
+.blueBlock {
   background-color: blue;
 }
