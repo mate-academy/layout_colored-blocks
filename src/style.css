@@ -1,14 +1,19 @@
-.div-red {
+* {
+  margin: 0;
+}
+
+.block {
   height: 100px;
+}
+
+.red {
   background-color: red;
 }
 
-.div-green {
-  height: 100px;
+.green {
   background-color: green;
 }
 
-.div-blue {
-  height: 100px;
+.blue {
   background-color: blue;
 }
