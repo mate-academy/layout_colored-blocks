@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  height: 100px;
+}
+
+.block1 {
+  background: red;
+}
+
+.block2 {
+  background: green;
+}
+
+.block3 {
+  background: blue;
+}
