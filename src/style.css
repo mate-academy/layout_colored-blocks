@@ -1,0 +1,19 @@
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.noMargin {
+  margin: 0;
+}
+
+.high100 {
+  height: 100px;
+}
