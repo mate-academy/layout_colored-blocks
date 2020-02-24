@@ -1,21 +1,19 @@
-.blue {
+body {
+  margin: 0;
+}
+
+div {
   height: 100px;
+}
+
+.blue {
   background-color: blue;
-  width: 100%;
 }
 
 .green {
-  height: 100px;
   background-color: green;
-  width: auto;
 }
 
 .red {
-  height: 100px;
   background-color: red;
-  width: 100%;
-}
-
-body {
-  margin: 0;
 }
