@@ -6,17 +6,16 @@ body {
 .square {
   width: 100%;
   height: 100px;
-
 }
 
-.red {
+.top-square {
   background-color: red;
 }
 
-.green {
+.middle-square {
   background-color: green;
 }
 
-.blue {
+.bottom-square {
   background-color: blue;
 }
