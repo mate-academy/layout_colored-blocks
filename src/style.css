@@ -1,10 +1,9 @@
-body {
+.allMargin {
   margin: 0;
 }
 
-div {
+.box_height {
   height: 100px;
-  width: 100%;
 }
 
 .box1 {
