@@ -3,14 +3,16 @@
   height: 100px;
 }
 
+.elements {
+  height: 100px;
+}
+
 .element_2 {
   background: green;
-  height: 100px;
 }
 
 .element_3 {
   background: blue;
-  height: 100px;
 }
 
 body {
