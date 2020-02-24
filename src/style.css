@@ -8,14 +8,14 @@ div {
   width: 100%;
 }
 
-.red {
+.red-box {
   background-color: red;
 }
 
-.green {
+.green-box {
   background-color: green;
 }
 
-.blue {
+.blue-box {
   background-color: blue;
 }
