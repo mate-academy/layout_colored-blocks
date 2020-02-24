@@ -1,21 +1,22 @@
-* {
+body {
   margin: 0;
   padding: 0;
 }
 
-section {
+.first-block {
   height: 100px;
   width: 100%;
-}
-
-.first {
   background-color: red;
 }
 
-.second {
+.second-block {
+  height: 100px;
+  width: 100%;
   background-color: green;
 }
 
-.third {
+.third-block {
+  height: 100px;
+  width: 100%;
   background-color: blue;
 }
