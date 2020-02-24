@@ -2,9 +2,10 @@ body {
   margin: 0;
 }
 
-div {
+.block1,
+.block2,
+.block3 {
   height: 100px;
-  width: 100%;
 }
 
 .block1 {
