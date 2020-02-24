@@ -1,20 +1,21 @@
-div {
-  height: 100px;
-  width: 100%;
-}
-
 body {
   margin: 0;
 }
 
-.red_block {
+.block_item_1 {
+  height: 100px;
+  width: 100%;
   background-color: red;
 }
 
-.green_block {
+.block_item_2 {
+  height: 100px;
+  width: 100%;
   background-color: green;
 }
 
-.blue_block {
+.block_item_3 {
+  height: 100px;
+  width: 100%;
   background-color: blue;
 }
