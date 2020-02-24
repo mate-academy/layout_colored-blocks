@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
+.all {
+  height: 100px;
+}
+
 .first {
   background-color: red;
-  height: 100px;
 }
 
 .second {
   background-color: green;
-  height: 100px;
 }
 
 .last {
   background-color: blue;
-  height: 100px;
 }
