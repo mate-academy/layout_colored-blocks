@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-div {
+.container {
   height: 100px;
 }
 
