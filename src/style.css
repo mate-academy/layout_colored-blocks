@@ -7,14 +7,14 @@ body {
   height: 100px;
 }
 
-.one {
+.first {
   background-color: red;
 }
 
-.two {
+.second {
   background-color: green;
 }
 
-.three {
+.third {
   background-color: blue;
 }
