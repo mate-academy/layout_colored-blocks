@@ -1,19 +1,19 @@
-.block1 {
-  background-color: red;
+body {
+  margin: 0;
 }
 
-.block2 {
-  background-color: green;
-}
-
-.block3 {
-  background-color: blue;
-}
-
-div {
+.block {
   height: 100px;
 }
 
-body {
-  margin: 0;
+.block--1 {
+  background-color: red;
+}
+
+.block--2 {
+  background-color: green;
+}
+
+.block--3 {
+  background-color: blue;
 }
