@@ -2,9 +2,7 @@ body {
   margin: 0;
 }
 
-.block1,
-.block2,
-.block3 {
+.blocks {
   height: 100px;
 }
 
