@@ -1,20 +1,17 @@
-* {
+div {
   padding: 0;
   margin: 0;
-}
-
-div {
   height: 100px;
 }
 
-#red {
+.red {
   background-color: red;
 }
 
-#blue {
+.blue {
   background-color: blue;
 }
 
-#green {
+.green {
   background-color: green;
 }
