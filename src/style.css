@@ -1,23 +1,19 @@
 body {
   margin: 0;
-  padding: 0;
 }
 
-.first-block,
-.second-block,
-.third-block {
-  width: 100%;
+.block {
   height: 100px;
 }
 
-.first-block {
+.block--red {
   background-color: red;
 }
 
-.second-block {
+.block--green {
   background-color: green;
 }
 
-.third-block {
+.block--blue {
   background-color: blue;
 }
