@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.colored-blocks__red {
+  background-color: rgb(255, 0,0);
+  height: 100px;
+}
+
+.colored-blocks__green {
+  background-color: green;
+  height: 100px;
+}
+
+.colored-blocks__blue {
+  background-color: rgb(0, 0,255);
+  height: 100px;
+}
