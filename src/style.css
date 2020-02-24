@@ -1,0 +1,17 @@
+.Iblock {
+  padding: 5%;
+  margin: -8px;
+  height: 5px;
+}
+
+.BlockOne {
+  background-color: red;
+}
+
+.BlockTwo {
+  background-color: green;
+}
+
+.BlockThree {
+  background-color: blue;
+}
