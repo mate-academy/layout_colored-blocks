@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.r-block {
+  width: auto;
+  height: 100px;
+  background-color: red;
+}
+
+.g-block {
+  width: auto;
+  height: 100px;
+  background-color: green;
+}
+
+.b-block {
+  width: auto;
+  height: 100px;
+  background-color: blue;
+}
