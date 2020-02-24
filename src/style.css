@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.first-block,
+.second-block,
+.third-block {
+  width: 100%;
+  height: 100px;
+}
+
+.first-block {
+  background-color: red;
+}
+
+.second-block {
+  background-color: green;
+}
+
+.third-block {
+  background-color: blue;
+}
