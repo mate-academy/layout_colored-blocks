@@ -2,19 +2,18 @@ body {
   margin: 0;
 }
 
-.case {
+.block {
   height: 100px;
-  width: 100%;
 }
 
-.red_box {
+.red_block {
   background-color: red;
 }
 
-.green_box {
+.green_block {
   background-color: green;
 }
 
-.blue_box {
+.blue_block {
   background-color: blue;
 }
