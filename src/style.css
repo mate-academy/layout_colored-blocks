@@ -1,12 +1,17 @@
-.red {
+
+body {
+  margin: 0;
+}
+
+.upBlock {
   background-color: red;
 }
 
-.green {
+.midBlock {
   background-color: green;
 }
 
-.blue {
+.bottomBlock {
   background-color: blue;
 }
 
@@ -14,6 +19,6 @@
   margin: 0;
 }
 
-.high100 {
+p {
   height: 100px;
 }
