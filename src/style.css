@@ -1,23 +1,17 @@
-.blocks {
-  /*display: block;*/
-  /*width: 100%;*/
-}
-
-#block_1 {
+.block {
   content: " ";
   height: 100px;
+}
+
+.block_1 {
   background-color: red;
 }
 
-#block_2 {
-  content: " ";
-  height: 100px;
+.block_2 {
   background-color: green;
 }
 
-#block_3 {
-  content: " ";
-  height: 100px;
+.block_3 {
   background-color: blue;
 }
 
