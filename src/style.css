@@ -8,14 +8,14 @@ div {
   width: 100%;
 }
 
-.red-box {
+.top-box {
   background-color: red;
 }
 
-.green-box {
+.middle-box {
   background-color: green;
 }
 
-.blue-box {
+.lower-box {
   background-color: blue;
 }
