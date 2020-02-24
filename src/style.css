@@ -1,19 +1,19 @@
 body {
   margin: 0;
-  padding: 0;
+}
+
+.container {
+  height: 100px;
 }
 
 .red {
-  height: 100px;
   background-color: red;
 }
 
 .green {
-  height: 100px;
   background-color: green;
 }
 
 .blue {
-  height: 100px;
   background-color: blue;
 }
