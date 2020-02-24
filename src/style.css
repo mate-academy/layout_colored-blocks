@@ -1,16 +1,15 @@
-#element_1 {
+.element_1 {
   background: red;
+  height: 100px;
 }
 
-#element_2 {
+.element_2 {
   background: green;
+  height: 100px;
 }
 
-#element_3 {
+.element_3 {
   background: blue;
-}
-
-.items {
   height: 100px;
 }
 
