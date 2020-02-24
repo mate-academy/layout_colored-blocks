@@ -1,0 +1,20 @@
+.element_1 {
+  background: red;
+  height: 100px;
+}
+
+.elements {
+  height: 100px;
+}
+
+.element_2 {
+  background: green;
+}
+
+.element_3 {
+  background: blue;
+}
+
+body {
+  margin: 0;
+}
