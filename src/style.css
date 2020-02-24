@@ -4,7 +4,7 @@ body {
 
 .first,
 .second,
-.third {
+.thirdd {
   width: auto;
   height: 100px;
 }
@@ -17,6 +17,6 @@ body {
   background-color: green;
 }
 
-.third {
+.thirdd {
   background-color: blue;
 }
