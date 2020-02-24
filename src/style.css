@@ -2,20 +2,21 @@ body {
   margin: 0;
 }
 
-.r-block {
+.first,
+.second,
+.third {
   width: auto;
   height: 100px;
+}
+
+.first {
   background-color: red;
 }
 
-.g-block {
-  width: auto;
-  height: 100px;
+.second {
   background-color: green;
 }
 
-.b-block {
-  width: auto;
-  height: 100px;
+.third {
   background-color: blue;
 }
