@@ -1,20 +1,20 @@
-div {
-  height: 100px;
-  width: auto;
+body {
+  margin: 0;
 }
 
-.red {
+div {
+  height: 100px;
+  width: 100%;
+}
+
+.block1 {
   background: red;
 }
 
-.green {
+.block2 {
   background: green;
 }
 
-.blue {
+.block3 {
   background: blue;
-}
-
-body {
-  margin: 0;
 }
