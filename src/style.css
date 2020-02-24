@@ -2,19 +2,19 @@ body {
   margin: 0;
 }
 
-div {
+.case {
   height: 100px;
   width: 100%;
 }
 
-.red {
+.red_box {
   background-color: red;
 }
 
-.green {
+.green_box {
   background-color: green;
 }
 
-.blue {
+.blue_box {
   background-color: blue;
 }
