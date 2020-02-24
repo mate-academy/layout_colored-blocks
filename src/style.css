@@ -1,20 +1,17 @@
-#cell1 {
+.Iblock {
+  padding: 5%;
+  margin: -8px;
+  height: 5px;
+}
+
+.BlockOne {
   background-color: red;
-  padding: 5%;
-  margin: -8px;
-  height: 5px;
 }
 
-#cell2 {
+.BlockTwo {
   background-color: green;
-  padding: 5%;
-  margin: -8px;
-  height: 5px;
 }
 
-#cell3 {
+.BlockThree {
   background-color: blue;
-  padding: 5%;
-  margin: -8px;
-  height: 5px;
 }
