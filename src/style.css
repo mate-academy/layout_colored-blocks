@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.red_rectangle {
+  background-color: red;
+  height: 100px;
+}
+
+.green_rectangle {
+  background-color: green;
+  height: 100px;
+}
+
+.blue_rectangle {
+  background-color: blue;
+  height: 100px;
+}
