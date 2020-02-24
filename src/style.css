@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+div {
+  width: 100%;
+  height: 100px;
+}
+
+.first-block {
+  background: red;
+}
+
+.second-block {
+  background: green;
+}
+
+.third-block {
+  background: blue;
+}
