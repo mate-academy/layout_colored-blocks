@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.first,
+.second,
+.thirdd {
+  width: auto;
+  height: 100px;
+}
+
+.first {
+  background-color: red;
+}
+
+.second {
+  background-color: green;
+}
+
+.thirdd {
+  background-color: blue;
+}
