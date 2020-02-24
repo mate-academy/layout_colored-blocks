@@ -2,19 +2,19 @@ body {
   margin: 0;
 }
 
-div {
-  width: 100%;
+.block {
+  width: redudant;
   height: 100px;
 }
 
-.block1 {
+.block--red {
   background-color: red;
 }
 
-.block2 {
+.block--green {
   background-color: green;
 }
 
-.block3 {
+.block--blue {
   background-color: blue;
 }
