@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.block1 {
+.block--red {
   background: red;
 }
 
-.block2 {
+.block--green {
   background: green;
 }
 
-.block3 {
+.block--blue {
   background: blue;
 }
