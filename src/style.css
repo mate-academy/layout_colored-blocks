@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.square {
+  width: 100%;
+  height: 100px;
+}
+
+.top-square {
+  background-color: red;
+}
+
+.middle-square {
+  background-color: green;
+}
+
+.bottom-square {
+  background-color: blue;
+}
