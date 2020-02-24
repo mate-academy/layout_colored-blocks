@@ -1,0 +1,19 @@
+.clear-field {
+  margin: 0;
+}
+
+.lane {
+  height: 100px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
