@@ -3,20 +3,19 @@ body {
   padding: 0;
 }
 
-.first-block {
+.block-size {
   height: 100px;
   width: 100%;
+}
+
+.first-block {
   background-color: red;
 }
 
 .second-block {
-  height: 100px;
-  width: 100%;
   background-color: green;
 }
 
 .third-block {
-  height: 100px;
-  width: 100%;
   background-color: blue;
 }
