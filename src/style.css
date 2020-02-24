@@ -2,20 +2,19 @@ body {
   margin: 0;
 }
 
-.block_item_1 {
+.blocks {
   height: 100px;
   width: 100%;
+}
+
+.block_item_1 {
   background-color: red;
 }
 
 .block_item_2 {
-  height: 100px;
-  width: 100%;
   background-color: green;
 }
 
 .block_item_3 {
-  height: 100px;
-  width: 100%;
   background-color: blue;
 }
