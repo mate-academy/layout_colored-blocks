@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+div {
+  height: 100px;
+}
+
 .upBlock {
   background-color: red;
 }
@@ -13,12 +17,4 @@ body {
 
 .bottomBlock {
   background-color: blue;
-}
-
-.noMargin {
-  margin: 0;
-}
-
-p {
-  height: 100px;
 }
