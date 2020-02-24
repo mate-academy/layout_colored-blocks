@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.upper {
+  background-color: red;
+}
+
+.middle {
+  background-color: green;
+}
+
+.bottom {
+  background-color: blue;
+}
+
+.strip {
+  height: 100px;
+}
