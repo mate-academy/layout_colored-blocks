@@ -1,22 +1,20 @@
 * {
   margin: 0;
-
 }
 
-.red {
+div {
   height: 100px;
   width: 100%;
+}
+
+.top-block {
   background-color: red;
 }
 
-.green {
-  height: 100px;
-  width: 100%;
+.middle-block {
   background-color: green;
 }
 
-.blue {
-  height: 100px;
-  width: 100%;
+.bottom-block {
   background-color: blue;
 }
