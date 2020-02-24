@@ -1,0 +1,19 @@
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+div {
+  height: 100px;
+}
+
+body {
+  margin: 0;
+}
