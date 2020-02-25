@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+}
+
+.blocks--info {
+  height: 100px;
+}
+
+.block--header {
+  background-color: red;
+}
+
+.block--main {
+  background-color: green;
+}
+
+.block--footer {
+  background-color: blue;
+}
