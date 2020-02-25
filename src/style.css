@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.card {
+  height: 100px;
+}
+
+.block_1 {
+  background-color: red;
+}
+
+.block_2 {
+  background-color: green;
+}
+
+.block_3 {
+  background-color: blue;
+}
