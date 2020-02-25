@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.infobox {
+  height: 100px;
+  width: 100%;
+}
+
+.top-box {
+  background-color: red;
+}
+
+.middle-box {
+  background-color: green;
+}
+
+.lower-box {
+  background-color: blue;
+}
