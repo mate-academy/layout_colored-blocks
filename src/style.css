@@ -1,0 +1,19 @@
+.block {
+  height: 100px;
+}
+
+body {
+  margin: 0;
+}
+
+.block--error {
+  background-color: red;
+}
+
+.block--success {
+  background-color: green;
+}
+
+.block--primary {
+  background-color: blue;
+}
