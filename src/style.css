@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.red {
+.item_1 {
   background-color: red;
 }
 
-.green {
+.item_2 {
   background-color: green;
 }
 
-.blue {
+.item_3 {
   background-color: blue;
 }
