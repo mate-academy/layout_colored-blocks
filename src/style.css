@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.block {
+  height: 100px;
+}
+
+.block--error {
+  background-color: red;
+}
+
+.block--status {
+  background-color: green;
+}
+
+.block--comment {
+  background-color: blue;
+}
