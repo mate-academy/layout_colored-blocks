@@ -2,22 +2,18 @@ body {
   margin: 0;
 }
 
-h1 {
-  display: none;
-}
-
 .block {
   height: 100px;
 }
 
-.red_block {
+.block--error {
   background-color: red;
 }
 
-.green_block {
+.block--status {
   background-color: green;
 }
 
-.blue_block {
+.block--comment {
   background-color: blue;
 }
