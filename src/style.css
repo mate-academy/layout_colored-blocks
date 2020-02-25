@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.card {
+  height: 100px;
+}
+
+.card--error {
+  background-color: red;
+}
+
+.card--success {
+  background-color: green;
+}
+
+.card--primary {
+  background-color: blue;
+}
