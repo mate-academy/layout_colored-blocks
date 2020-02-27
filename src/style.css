@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.box {
+  height: 100px;
+}
+
+.item1 {
+  background: red;
+}
+
+.item2 {
+  background: green;
+}
+
+.item3 {
+  background: blue;
+}
