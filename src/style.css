@@ -2,20 +2,20 @@ body {
   margin: 0;
 }
 
-#first,
-#second,
-#third {
+.first,
+.second,
+.third {
   height: 100px;
 }
 
-#first {
+.first {
   background-color: red;
 }
 
-#second {
+.second {
   background-color: green;
 }
 
-#third {
+.third {
   background-color: blue;
 }
