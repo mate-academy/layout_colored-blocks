@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.info-card {
+  height: 100px;
+}
+
+.info-card-error {
+  background-color: red;
+}
+
+.info-card-warn {
+  background-color: green;
+}
+
+.info-card-success {
+  background-color: blue;
+}
