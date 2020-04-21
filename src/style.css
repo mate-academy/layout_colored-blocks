@@ -16,3 +16,7 @@
   height: 100px;
   background: blue;
 }
+
+body {
+  margin: 0;
+}
