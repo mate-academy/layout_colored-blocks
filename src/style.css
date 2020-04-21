@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.block:first-of-type {
+.top {
   background-color: red;
 }
 
-.block:nth-of-type(2) {
+.middle {
   background-color: green;
 }
 
-.block:last-of-type {
+.bottom {
   background-color: blue;
 }
