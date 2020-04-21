@@ -2,17 +2,17 @@ body {
   margin: 0;
 }
 
-.red {
+.box_1 {
   height: 100px;
   background-color: red;
 }
 
-.green {
+.box_2 {
   height: 100px;
   background-color: green;
 }
 
-.blue {
+.box_3 {
   height: 100px;
   background-color: blue;
 }
