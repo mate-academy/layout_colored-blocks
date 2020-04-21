@@ -1,22 +1,23 @@
-.block1 {
-  height: 100px;
-  background-color: red;
-}
-
-.block2 {
-  height: 100px;
-  background-color: green;
-}
-
-.block3 {
-  height: 100px;
-  background-color: blue;
-}
-
 body {
   margin: 0;
 }
 
 h1 {
   margin: 0;
+}
+
+.block {
+  height: 100px;
+}
+
+.top {
+  background-color: red;
+}
+
+.middle {
+  background-color: green;
+}
+
+.bottom {
+  background-color: blue;
 }
