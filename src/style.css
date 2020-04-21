@@ -1,9 +1,8 @@
-* {
+body {
   margin: 0;
-  box-sizing: border-box;
 }
 
-div {
+.color-lines {
   height: 100px;
 }
 
