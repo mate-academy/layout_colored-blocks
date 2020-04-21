@@ -1,14 +1,20 @@
-.box{
-height: 100px;
+.box {
+  height: 100px;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
 
-.red-background{
+.red-background {
   background-color: red;
 }
-.green-background{
+
+.green-background {
   background-color: green;
 }
-.blue-background{
+
+.blue-background {
   background-color: blue;
 }
