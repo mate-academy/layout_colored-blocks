@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .red {
   background-color: red;
 }
@@ -12,8 +16,4 @@
 
 .blocks {
   height: 100px;
-}
-
-.full {
-  margin: 0;
 }
