@@ -1,22 +1,26 @@
-* {
-  margin: 0;
+body,
+.first,
+.second,
+.third {
   padding: 0;
+  margin: 0;
 }
 
-.red {
+.first,
+.second,
+.third {
+  height: 100px;
+  width: 100%;
+}
+
+.first {
   background-color: red;
-  height: 100px;
-  width: 100%;
 }
 
-.green {
+.second {
   background-color: green;
-  height: 100px;
-  width: 100%;
 }
 
-.blue {
+.third {
   background-color: blue;
-  height: 100px;
-  width: 100%;
 }
