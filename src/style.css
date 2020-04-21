@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
-.box_1 {
+.box {
   height: 100px;
+}
+
+.top {
   background-color: red;
 }
 
-.box_2 {
-  height: 100px;
+.middle {
   background-color: green;
 }
 
-.box_3 {
-  height: 100px;
+.bottom {
   background-color: blue;
 }
