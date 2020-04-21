@@ -1,22 +1,21 @@
-* {
+body {
   padding: 0;
   margin: 0;
 }
 
-.firstBlock {
+div {
+  height: 100px;
+  width: 100%;
+}
+
+.first-block {
   background-color: red;
-  height: 100px;
-  width: 100%;
 }
 
-.secondBlock {
+.second-block {
   background-color: green;
-  height: 100px;
-  width: 100%;
 }
 
-.thirdBlock {
+.third-block {
   background-color: blue;
-  height: 100px;
-  width: 100%;
 }
