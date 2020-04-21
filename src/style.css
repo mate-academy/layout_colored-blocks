@@ -2,17 +2,18 @@ body {
   margin: 0;
 }
 
-.firstLine {
-  height: 100px;
+.red {
   background: red;
 }
 
-.secondLine {
-  height: 100px;
+.green {
   background: green;
 }
 
-.thirdLine {
-  height: 100px;
+.blue {
   background: blue;
+}
+
+.myHeight {
+  height: 100px;
 }
