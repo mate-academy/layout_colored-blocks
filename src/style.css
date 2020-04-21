@@ -1,21 +1,19 @@
 body {
-  padding: 0;
   margin: 0;
 }
 
-div {
+.block {
   height: 100px;
-  width: 100%;
 }
 
-.first-block {
+.red {
   background-color: red;
 }
 
-.second-block {
+.green {
   background-color: green;
 }
 
-.third-block {
+.blue {
   background-color: blue;
 }
