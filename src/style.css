@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.block {
+  width: 100%;
+  height: 100px;
+}
+
+.block:first-of-type {
+  background-color: red;
+}
+
+.block:nth-of-type(2) {
+  background-color: green;
+}
+
+.block:last-of-type {
+  background-color: blue;
+}
