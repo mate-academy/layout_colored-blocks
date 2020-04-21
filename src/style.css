@@ -2,17 +2,17 @@ body {
   margin: 0;
 }
 
-.square1 {
+.firstLine {
   height: 100px;
   background: red;
 }
 
-.square2 {
+.secondLine {
   height: 100px;
   background: green;
 }
 
-.square3 {
+.thirdLine {
   height: 100px;
   background: blue;
 }
