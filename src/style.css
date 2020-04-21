@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.firstBlock {
+  background-color: red;
+  height: 100px;
+  width: 100%;
+}
+
+.secondBlock {
+  background-color: green;
+  height: 100px;
+  width: 100%;
+}
+
+.thirdBlock {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+}
