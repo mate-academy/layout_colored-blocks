@@ -1,3 +1,14 @@
-body {
-  
+.box{
+height: 100px;
+}
+
+
+.red-background{
+  background-color: red;
+}
+.green-background{
+  background-color: green;
+}
+.blue-background{
+  background-color: blue;
 }
