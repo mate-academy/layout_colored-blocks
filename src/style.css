@@ -1,19 +1,19 @@
-body {
+.zeromgn {
   margin: 0;
 }
 
-div {
+.ht {
   height: 100px;
 }
 
-#b01 {
+.cred {
   background-color: red;
 }
 
-#b02 {
+.cgreen {
   background-color: green;
 }
 
-#b03 {
+.cblue {
   background-color: blue;
 }
