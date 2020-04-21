@@ -1,16 +1,9 @@
-body,
-.first,
-.second,
-.third {
-  padding: 0;
+body {
   margin: 0;
 }
 
-.first,
-.second,
-.third {
+.block {
   height: 100px;
-  width: 100%;
 }
 
 .first {
