@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.box {
+  height: 100px;
+}
+
+.top {
+  background-color: #f00;
+}
+
+.middle {
+  background-color: green;
+}
+
+.bottom {
+  background-color: #00f;
+}
