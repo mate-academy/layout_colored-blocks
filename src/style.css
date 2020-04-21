@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.al {
+  height: 100px;
+}
+
+.d1 {
+  background-color: red;
+}
+
+.d2 {
+  background-color: green;
+}
+
+.d3 {
+  background-color: blue;
+}
