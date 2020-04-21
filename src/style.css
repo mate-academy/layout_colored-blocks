@@ -2,19 +2,19 @@ body {
   margin: 0;
 }
 
-div {
+.flag {
   height: 100px;
   width: 100%;
 }
 
-.red {
+.flag--top {
   background-color: red;
 }
 
-.green {
+.flag--midlle {
   background-color: green;
 }
 
-.blue {
+.flag--bottom {
   background-color: blue;
 }
