@@ -1,22 +1,21 @@
-* {
+body {
   margin: 0;
   padding: 0;
 }
-
+.box{
+  height: 100px;
+}
 .red-box {
   background-color: red;
-  width: auto;
-  height: 100px;
+ 
 }
 
 .green-box {
   background-color: green;
-  width: auto;
   height: 100px;
 }
 
 .blue-box {
   background-color: blue;
-  width: auto;
   height: 100px;
 }
