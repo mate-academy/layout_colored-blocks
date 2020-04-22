@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.flag {
+  height: 100px;
+}
+
+.flag--top {
+  background-color: red;
+}
+
+.flag--midlle {
+  background-color: green;
+}
+
+.flag--bottom {
+  background-color: blue;
+}
