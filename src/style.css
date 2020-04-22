@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.color1 {
+.red_box_color {
   background-color: red;
 }
 
-.color2 {
+.green_box_color {
   background-color: green;
 }
 
-.color3 {
+.blue_box_color {
   background-color: blue;
 }
