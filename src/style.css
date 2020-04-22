@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.general {
+  height: 100px;
+}
+
+.red_box_color {
+  background-color: red;
+}
+
+.green_box_color {
+  background-color: green;
+}
+
+.blue_box_color {
+  background-color: blue;
+}
