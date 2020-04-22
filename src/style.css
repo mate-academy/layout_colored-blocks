@@ -2,18 +2,18 @@ body {
   margin: 0;
 }
 
-.h {
+.block_height {
   height: 100px;
 }
 
-.r {
+.first_block {
   background-color: red;
 }
 
-.g {
+.second_block {
   background-color: green;
 }
 
-.b {
+.third_block {
   background-color: blue;
 }
