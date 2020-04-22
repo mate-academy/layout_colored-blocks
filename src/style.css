@@ -1,19 +1,19 @@
-.zero_margin {
+.zero-margin {
   margin: 0;
 }
 
-.height100 {
+.height-100 {
   height: 100px;
 }
 
-.color_red {
+.color-red {
   background-color: red;
 }
 
-.color_green {
+.color-green {
   background-color: green;
 }
 
-.color_blue {
+.color-blue {
   background-color: blue;
 }
