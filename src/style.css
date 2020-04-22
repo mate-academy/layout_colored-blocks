@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.block_height {
+  height: 100px;
+}
+
+.first_block {
+  background-color: red;
+}
+
+.second_block {
+  background-color: green;
+}
+
+.third_block {
+  background-color: blue;
+}
