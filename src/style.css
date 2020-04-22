@@ -2,18 +2,18 @@ body {
   margin: 0;
 }
 
-.al {
+.general {
   height: 100px;
 }
 
-.d1 {
+.color1 {
   background-color: red;
 }
 
-.d2 {
+.color2 {
   background-color: green;
 }
 
-.d3 {
+.color3 {
   background-color: blue;
 }
