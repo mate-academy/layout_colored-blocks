@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body div:nth-child(1) {
+  height: 100px;
+  background: red;
+}
+
+body div:nth-child(2) {
+  height: 100px;
+  background: green;
+}
+
+body div:nth-child(3) {
+  height: 100px;
+  background: blue;
+}
