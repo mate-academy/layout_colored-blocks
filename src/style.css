@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+div {
+  width: auto;
+  height: 100px;
+}
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
