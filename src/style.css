@@ -1,0 +1,16 @@
+* {
+  margin: auto;
+}
+
+p {
+  background-color: red;
+  height: 100px;
+}
+
+.middle {
+  background-color: green;
+}
+
+.bottom {
+  background-color: blue;
+}
