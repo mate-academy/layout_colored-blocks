@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+#block-container {
+  display: flex;
+  flex-direction: column;
+}
+
+#block-1 {
+  background-color: red;
+  width: 100%;
+  height: 100px;
+}
+
+#block-2 {
+  background-color: green;
+  width: 100%;
+  height: 100px;
+}
+
+#block-3 {
+  background-color: blue;
+  width: 100%;
+  height: 100px;
+}
