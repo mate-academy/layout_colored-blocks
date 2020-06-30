@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.block__red {
+.block__top {
   background-color: red;
 }
 
-.block__green {
+.block__middle {
   background-color: green;
 }
 
-.block__blue {
+.block__bottom {
   background-color: blue;
 }
