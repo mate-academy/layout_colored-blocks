@@ -4,15 +4,16 @@ body {
 
 .red-block {
   background-color: red;
-  height: 100px;
 }
 
 .green-block {
   background-color: green;
-  height: 100px;
 }
 
 .blue-block {
   background-color: blue;
+}
+
+.block {
   height: 100px;
 }
