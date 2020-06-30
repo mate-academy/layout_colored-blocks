@@ -3,17 +3,18 @@
   margin: 0;
 }
 
-.redBlock {
+.red {
   background-color: red;
-  height: 100px;
 }
 
-.greenBlock {
+.green {
   background-color: green;
-  height: 100px;
 }
 
-.blueBlock {
+.blue {
   background-color: blue;
+}
+
+.block {
   height: 100px;
 }
