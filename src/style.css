@@ -3,14 +3,17 @@
 }
 
 div {
-  background-color: red;
   height: 100px;
 }
 
-.middle {
+.red {
+  background-color: red;
+}
+
+.green {
   background-color: green;
 }
 
-.bottom {
+.blue {
   background-color: blue;
 }
