@@ -1,9 +1,5 @@
-.pos {
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
+.remove-free-space {
+  margin: 0;
 }
 
 .block-height {
