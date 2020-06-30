@@ -26,6 +26,7 @@ some text
 that's why this is better to add this style to those elements you really need
 - if you have some similar styles among different blocks, consider creating a new class with similar styles and assign it to the elements you need
 - avoid styling with tags, there could be more tags of this type, and you don't need them to have styles you previously added
+- don't style with ids, they have quite a high specificity so they are harder to override with other styles
 - do not reset paddings for `body`, it doesn't have it by default
 - check your class names again and make sure they are meaningful and describe the element behavior or its appearance
 - styles for `body` is usually written at the beginning of the file
