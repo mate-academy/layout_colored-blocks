@@ -4,18 +4,15 @@ body {
 
 .first {
   height: 100px;
-  width: 100%;
   background-color: red;
 }
 
 .second {
   height: 100px;
-  width: 100%;
   background-color: green;
 }
 
 .third {
-  width: 100%;
   height: 100px;
   background-color: blue;
 }
