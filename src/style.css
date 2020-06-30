@@ -4,17 +4,16 @@ body {
 
 div {
   height: 100px;
-  width: 100%;
 }
 
-#red_block {
+.red_block {
   background-color: red;
 }
 
-#green_block {
+.green_block {
   background-color: green;
 }
 
-#blue_block {
+.blue_block {
   background-color: blue;
 }
