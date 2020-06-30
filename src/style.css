@@ -1,0 +1,24 @@
+#bodyy {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+#red_block {
+  background-color: red;
+  height: 100px;
+  
+}
+
+#green_block {
+  background-color: green;
+  height: 100px;
+  
+}
+
+#blue_block {
+  background-color: blue;
+  height: 100px;
+  
+}
