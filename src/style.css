@@ -1,4 +1,4 @@
-* {
+body {
   margin: 0;
 }
 
@@ -6,14 +6,14 @@ div {
   height: 100px;
 }
 
-#blockRed {
+#block_red {
   background-color: red;
 }
 
-#blockGreen {
+#block_green {
   background-color: green;
 }
 
-#blockBlue {
+#block_blue {
   background-color: blue;
 }
