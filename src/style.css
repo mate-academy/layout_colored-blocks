@@ -1,20 +1,22 @@
-* {
+body {
   margin: 0;
 }
 
-div {
+.red,
+.green,
+.blue {
   width: auto;
   height: 100px;
 }
 
-#red {
+.red {
   background-color: red;
 }
 
-#green {
+.green {
   background-color: green;
 }
 
-#blue {
+.blue {
   background-color: blue;
 }
