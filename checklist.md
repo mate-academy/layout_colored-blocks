@@ -29,3 +29,4 @@ that's why this is better to add this style to those elements you really need
 - do not reset paddings for `body`, it doesn't have it by default
 - check your class names again and make sure they are meaningful and describe the element behavior or its appearance
 - styles for `body` is usually written at the beginning of the file
+- remove commented code and unnecessary comments
