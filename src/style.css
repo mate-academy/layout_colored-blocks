@@ -6,14 +6,14 @@ body {
   height: 100px;
 }
 
-.bgcRed {
+.block-red {
   background-color: red;
 }
 
-.bgcGreen {
+.block-green {
   background-color: green;
 }
 
-.bgcBlue {
+.block-blue {
   background-color: blue;
 }
