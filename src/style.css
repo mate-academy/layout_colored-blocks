@@ -7,14 +7,14 @@ div {
   height: 100px;
 }
 
-.red {
+.red_block {
   background-color: red;
 }
 
-.green {
+.green_block {
   background-color: green;
 }
 
-.blue {
+.blue_block {
   background-color: blue;
 }
