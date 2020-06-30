@@ -3,17 +3,18 @@
   padding: 0;
 }
 
-.block1 {
+div {
   height: 100px;
+}
+
+.block-red {
   background: red;
 }
 
-.block2 {
-  height: 100px;
+.block-green {
   background-color: green;
 }
 
-.block3 {
-  height: 100px;
+.block-blue {
   background-color: blue;
 }
