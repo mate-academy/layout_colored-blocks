@@ -1,4 +1,5 @@
 - make sure all links work and test is present
+- comments are usually applicable to the whole project, not only the place where it was left (think about similar issues in your code)
 - make sure there is an empty line at the end of the file ([find out why](https://evanhahn.com/newline-necessary-at-the-end-of-javascript-files/))
 - elements of type block (e.g. `div`) are already 100% wide, there is no need to write this in styles
 - after you open the tag, you have to add at least one more level of indentation before you close this tag 
