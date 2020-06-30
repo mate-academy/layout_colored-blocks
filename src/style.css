@@ -7,14 +7,14 @@ div {
   height: 100px;
 }
 
-body div:nth-child(1) {
+.red {
   background: red;
 }
 
-body div:nth-child(2) {
+.green {
   background: green;
 }
 
-body div:nth-child(3) {
+.blue {
   background: blue;
 }
