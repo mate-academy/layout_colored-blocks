@@ -6,14 +6,14 @@ div {
   height: 100px;
 }
 
-#block_red {
+.block_red {
   background-color: red;
 }
 
-#block_green {
+.block_green {
   background-color: green;
 }
 
-#block_blue {
+.block_blue {
   background-color: blue;
 }
