@@ -2,18 +2,18 @@ body {
   margin: 0;
 }
 
-div {
+.box {
   height: 100px;
 }
 
-.red {
+.first {
   background-color: red;
 }
 
-.green {
+.second {
   background-color: green;
 }
 
-.blue {
+.last {
   background-color: blue;
 }
