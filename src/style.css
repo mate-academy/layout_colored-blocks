@@ -1,19 +1,19 @@
-* {
+body {
   margin: 0;
 }
 
-div {
+.box {
   height: 100px;
 }
 
-.red_color {
+.first {
   background-color: red;
 }
 
-.green_color {
+.second {
   background-color: green;
 }
 
-.blue_color {
+.third {
   background-color: blue;
 }
