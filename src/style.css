@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+}
+
+.block {
+  height: 100px;
+}
+
+.first {
+  background-color: red;
+}
+
+.middle {
+  background-color: green;
+}
+
+.last {
+  background-color: blue;
+}
