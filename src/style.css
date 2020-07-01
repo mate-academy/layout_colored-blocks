@@ -3,19 +3,18 @@ body {
   margin: 0;
 }
 
-div {
-  width: 100%;
+.block {
   height: 100px;
 }
 
-.red {
+.first {
   background-color: red;
 }
 
-.green {
+.middle {
   background-color: green;
 }
 
-.blue {
+.last {
   background-color: blue;
 }
