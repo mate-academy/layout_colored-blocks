@@ -24,7 +24,7 @@ some text
 - do not add extra files to the PR, use `git add <file_name>` instead of `git add.` or use `.gitignore` file ([gitignore](https://git-scm.com/docs/gitignore))
 - check the [style guide](https://mate-academy.github.io/style-guides/htmlcss.html)
 - `*` selector is used to add styles to EACH element of the file, you don't usually need this and this is too heavy for the big page, 
-that's why this is better to add this style to those elements you really need
+that's why this is better to add this style to those elements you really need (the major case when it is used is for `box-sizing` property)
 - if you have some similar styles among different blocks, consider creating a new class with similar styles and assign it to the elements you need
 - avoid styling with tags, there could be more tags of this type, and you don't need them to have styles you previously added
 - don't style with ids, they have quite a high specificity so they are harder to override with other styles
