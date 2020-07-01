@@ -3,20 +3,22 @@ body {
   
 }
 
-#red_block {
+.block {
+  height: 100px;
+
+}
+
+.red {
   background-color: red;
-  height: 100px;
   
 }
 
-#green_block {
+.green {
   background-color: green;
-  height: 100px;
-  
+ 
 }
 
-#blue_block {
+.blue {
   background-color: blue;
-  height: 100px;
   
 }
