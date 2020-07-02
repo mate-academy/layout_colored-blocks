@@ -2,17 +2,20 @@ body {
   margin: 0;
 }
 
+.red,
+.green,
+.blue {
+  height: 100px;
+}
+
 .red {
   background: red;
-  height: 100px;
 }
 
 .green {
   background: green;
-  height: 100px;
 }
 
 .blue {
   background: blue;
-  height: 100px;
 }
