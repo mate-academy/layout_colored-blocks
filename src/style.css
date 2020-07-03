@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+
+.top.box {
+  background-color: red;
+}
+
+.middle.box {
+  background-color: green;
+}
+
+.bottom.box {
+  background-color: blue;
+}
+
+.box {
+  height: 100px;
+  margin: 0;
+  padding: 0;
+}
