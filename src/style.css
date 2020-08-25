@@ -3,16 +3,17 @@ body {
 }
 
 .red_block {
-  height: 100px;
   background-color: red;
 }
 
 .green_block {
-  height: 100px;
   background-color: green;
 }
 
 .blue_block {
-  height: 100px;
   background-color: blue;
+}
+
+.block {
+  height: 100px;
 }
