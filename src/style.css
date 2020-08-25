@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.num1 {
+  height: 100px;
+  background: red;
+}
+
+.num2 {
+  height: 100px;
+  background: green;
+}
+
+.num3 {
+  height: 100px;
+  background: blue;
+}
