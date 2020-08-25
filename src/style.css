@@ -2,19 +2,19 @@ body {
   margin: 0;
 }
 
-div {
+.colored-div {
   width: 100%;
   height: 100px;
 }
 
-#red-item {
+.red-item {
   background-color: red;
 }
 
-#green-item {
+.green-item {
   background-color: green;
 }
 
-#blue-item {
+.blue-item {
   background-color: blue;
 }
