@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.color-block-one {
+  background-color: red;
+}
+
+.color-block-two {
+  background-color: green;
+}
+
+.color-block-three {
+  background-color: blue;
+}
+
+div {
+  height: 100px;
+}
