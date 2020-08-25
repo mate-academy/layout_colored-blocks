@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.block-height {
+  height: 100px;
+}
+
+.child1 {
+  background: red;
+}
+
+.child2 {
+  background: green;
+}
+
+.child3 {
+  background: blue;
+}
