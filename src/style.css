@@ -2,20 +2,23 @@ body {
   margin: 0;
 }
 
-.block1 {
+.blocks {
   height: 100px;
   width: auto;
+}
+
+.block1 {
   background-color: red;
 }
 
 .block2 {
-  height: 100px;
-  width: auto;
+
   background-color: green;
+
 }
 
 .block3 {
-  height: 100px;
-  width: auto;
+  
   background-color: blue;
+
 }
