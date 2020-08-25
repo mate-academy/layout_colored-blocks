@@ -1,19 +1,18 @@
-div {
-  height: 100px;
-}
-
 body {
   margin: 0;
 }
 
 .top_block {
   background-color: red;
+  height: 100px;
 }
 
 .middle_block {
   background-color: green;
+  height: 100px;
 }
 
 .bottom_block {
   background-color: blue;
+  height: 100px;
 }
