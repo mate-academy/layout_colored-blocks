@@ -2,10 +2,6 @@ body {
   margin: 0;
 }
 
-.box {
-  height: 100px;
-}
-
 .red {
   background-color: red;
 }
@@ -16,4 +12,8 @@ body {
   
 .green {
   background-color: green;
-} 
+}
+
+.box {
+  height: 100px;
+}
