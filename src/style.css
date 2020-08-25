@@ -3,16 +3,17 @@ body {
 }
 
 #rectangle1 {
-  height: 100px;
   background: red;
 }
 
 #rectangle2 {
-  height: 100px;
   background: green;
 }
 
 #rectangle3 {
-  height: 100px;
   background: blue;
+}
+
+.allheight {
+  height: 100px;
 }
