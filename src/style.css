@@ -1,0 +1,21 @@
+
+.redbox {
+
+  height: 100px;
+  width: device-width;
+  background-color: red;
+}
+
+.bluebox {
+
+  height: 100px;
+  width: device-width;
+  background-color: blue;
+}
+
+.greenbox {
+
+  height: 100px;
+  width: device-width;
+  background-color: green;
+} 
