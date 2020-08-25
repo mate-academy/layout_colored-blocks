@@ -3,19 +3,17 @@ body {
 }
 
 .red {
-  height: 100px;
-  width: auto;
   background-color: red;
 }
 
 .green {
-  height: 100px;
-  width: auto;
   background-color: green;
 }
 
 .blue {
-  height: 100px;
-  width: auto;
   background-color: blue;
+}
+
+.block {
+  height: 100px;
 }
