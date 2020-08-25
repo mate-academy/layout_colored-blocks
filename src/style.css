@@ -1,16 +1,16 @@
-div.red {
+.red {
   background-color: red;
 }
 
-div.green {
+.green {
   background-color: green;
 }
 
-div.blue {
+.blue {
   background-color: blue;
 }
 
-div.rect {
+.rect {
   height: 100px;
 }
 
