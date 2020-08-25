@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+
+.height {
+  height: 100px;
+}
+
+.color1 {
+  background-color: red;
+}
+
+.color2 {
+  background-color: green;
+}
+
+.color3 {
+  background-color: blue;
+}
