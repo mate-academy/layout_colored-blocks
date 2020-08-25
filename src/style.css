@@ -1,8 +1,9 @@
-.body {
+body {
   margin: 0;
 }
 
 .block {
+  box-sizing: content-box;
   height: 100px;
 }
 
