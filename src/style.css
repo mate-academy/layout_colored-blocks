@@ -4,17 +4,18 @@
   box-sizing: border-box;
 }
 
-.num1 {
+.tall {
   height: 100px;
+}
+
+.red {
   background: red;
 }
 
-.num2 {
-  height: 100px;
+.green {
   background: green;
 }
 
-.num3 {
-  height: 100px;
+.blue {
   background: blue;
 } 
