@@ -1,0 +1,20 @@
+.colored_blocks {
+  height: 100px;
+  width: 100%;
+}
+
+body {
+  margin: unset;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
