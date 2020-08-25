@@ -1,15 +1,16 @@
-div.block1 {
+.block1 {
   background-color: red;
-  height: 100px;
 }
 
-div.block2 {
+.block2 {
   background-color: green;
-  height: 100px;
 }
 
-div.block3 {
+.block3 {
   background-color: blue;
+}
+
+.height {
   height: 100px;
 }
 
