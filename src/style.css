@@ -1,17 +1,19 @@
-.block-red {
-  color: red;
+.body {
+  margin: 0;
+}
+
+.block {
   height: 100px;
-  width: 100%;
+}
+
+.block-red {
+  background-color: red;
 }
 
 .block-green {
-  color: green;
-  height: 100px;
-  width: 100%;
+  background-color: green;
 }
 
 .block-blue {
-  color: blue;
-  height: 100px;
-  width: 100%;
+  background-color: blue;
 }
