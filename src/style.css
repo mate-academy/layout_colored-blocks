@@ -1,20 +1,20 @@
-body{
+body {
   margin: 0;
   padding: 0;
 }
 
-.block{
+.block {
   height: 100px;
 }
 
-.red{
+.red {
   background: red;
 }
 
-.green{
+.green {
   background: green;
 }
 
-.blue{
+.blue {
   background: blue;
 }
