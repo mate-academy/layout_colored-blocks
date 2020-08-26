@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.rectangle1 {
+  background: red;
+}
+
+.rectangle2 {
+  background: green;
+}
+
+.rectangle3 {
+  background: blue;
+}
+
+.block {
+  height: 100px;
+}
