@@ -2,18 +2,18 @@ body {
   margin: 0;
 }
 
-#rectangle1 {
+.rectangle1 {
   background: red;
 }
 
-#rectangle2 {
+.rectangle2 {
   background: green;
 }
 
-#rectangle3 {
+.rectangle3 {
   background: blue;
 }
 
-.allheight {
+.block {
   height: 100px;
 }
