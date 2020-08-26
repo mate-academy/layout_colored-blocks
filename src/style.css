@@ -6,17 +6,16 @@
 
 .block {
   height: 100px;
-  width: 100%;
 }
 
-#block1 {
+.red {
   background-color: red;
 }
 
-#block2 {
+.green {
   background-color: green;
 }
 
-#block3 {
+.blue {
   background-color: blue;
 }
