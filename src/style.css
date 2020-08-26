@@ -4,15 +4,16 @@
 
 .top_block {
   background-color: red;
-  height: 100px;
 }
 
 .middle_block {
   background-color: green;
-  height: 100px;
 }
 
 .bottom_block {
   background-color: blue;
+}
+
+.block_height {
   height: 100px;
 }
