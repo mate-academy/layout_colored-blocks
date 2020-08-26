@@ -4,7 +4,6 @@ body {
 
 .blocks {
   height: 100px;
-  width: auto;
 }
 
 .block1 {
@@ -12,13 +11,9 @@ body {
 }
 
 .block2 {
-
   background-color: green;
-
 }
 
 .block3 {
-  
   background-color: blue;
-
 }
