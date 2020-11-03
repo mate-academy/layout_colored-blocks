@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .red {
   background-color: rgb(255, 0, 0);
 }
@@ -12,9 +16,4 @@
 
 div {
   height: 100px;
-}
-
-body {
-  margin: 0;
-  padding: 0;
 }
