@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.block {
+  height: 100px;
+  width: 100%;
+}
+
+.block:nth-child(1) {
+  background-color: red;
+}
+
+.block:nth-child(2) {
+  background-color: green;
+}
+
+.block:nth-child(3) {
+  background-color: blue;
+}
