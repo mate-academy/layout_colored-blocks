@@ -7,14 +7,14 @@ div {
   margin: 0%;
 }
 
-#block1 {
+.red-block {
   background-color: red;
 }
 
-#block2 {
+.green-block {
   background-color: green;
 }
 
-#block3 {
+.blue-block {
   background-color: blue;
 }
