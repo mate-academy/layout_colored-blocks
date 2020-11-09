@@ -2,16 +2,20 @@ body {
   margin: 0;
 }
 
-div {
+.top {
   height: 100px;
   width: 100%;
   background: red;
 }
 
 .middle {
+  height: 100px;
+  width: 100%;
   background: green;
 }
 
 .bottom {
+  height: 100px;
+  width: 100%;
   background: blue;
 }
