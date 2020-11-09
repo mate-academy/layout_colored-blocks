@@ -2,19 +2,19 @@ body {
   margin: 0;
 }
 
-div {
+.standardOne {
   width: auto;
   height: 100px;
 }
 
-#block1 {
+.red {
   background-color: red;
 }
 
-#block2 {
+.green {
   background-color: green;
 }
 
-#block3 {
+.blue {
   background-color: blue;
 }
