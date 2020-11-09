@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+p {
+  height: 100px;
+  width: auto;
+  margin: 0;
+}
+
+.p1 {
+  background-color: red;
+}
+
+.p2 {
+  background-color: green;
+}
+
+.p3 {
+  background-color: blue;
+}
