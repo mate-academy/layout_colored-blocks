@@ -1,23 +1,19 @@
-* {
-  margin: 0;
-  padding: 0;
+body {
+  margin: 0%;
 }
 
-.height {
+div {
   height: 100px;
 }
 
 .first {
   background-color: red;
-  height: 100px;
 }
 
 .second {
   background-color: green;
-  height: 100px;
 }
 
 .third {
   background-color: blue;
-  height: 100px;
 }
