@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+div {
+  height: 100px;
+}
+
 .top_block {
   background-color: red;
 }
@@ -12,8 +16,4 @@ body {
 
 .bottom_block {
   background-color: blue;
-}
-
-.block {
-  height: 100px;
 }
