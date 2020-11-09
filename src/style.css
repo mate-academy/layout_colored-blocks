@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+div {
+  height: 100px;
+  width: 100%;
+  background: red;
+}
+
+.middle {
+  background: green;
+}
+
+.bottom {
+  background: blue;
+}
