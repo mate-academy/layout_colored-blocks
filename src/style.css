@@ -1,14 +1,16 @@
-div {
+.first-div {
+  background-color: red;
+  height: 100px;
+}
+
+.second-div {
   background-color: green;
   height: 100px;
 }
 
-div:first-of-type {
-  background-color: red;
-}
-
-div:last-of-type {
+.third-div {
   background-color: blue;
+  height: 100px;
 }
 
 body {
