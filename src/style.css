@@ -2,22 +2,18 @@ body {
   margin: 0;
 }
 
-.firstBlock,
-.secondBlock,
-.thirdBlock {
+.block {
   height: 100px;
-  width: auto;
-  margin: 0;
 }
 
-.firstBlock {
+.highest {
   background-color: red;
 }
 
-.secondBlock {
+.middle {
   background-color: green;
 }
 
-.thirdBlock {
+.lowest {
   background-color: blue;
 }
