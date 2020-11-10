@@ -1,0 +1,24 @@
+div {
+  height: 100px;
+  width: 100%;
+}
+
+.top {
+  background-color: red;
+}
+
+.midle {
+  background-color: green;
+}
+
+.bottom {
+  background-color: blue;
+}
+
+.block {
+  height: 100px;
+}
+
+body {
+  margin: 0;
+}
