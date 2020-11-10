@@ -3,19 +3,22 @@ div {
   width: 100%;
 }
 
-.block1 {
+.top {
   background-color: red;
 }
 
-.block2 {
+.midle {
   background-color: green;
 }
 
-.block3 {
+.bottom {
   background-color: blue;
+}
+
+.block {
+  height: 100px;
 }
 
 body {
   margin: 0;
-  padding: 0;
 }
