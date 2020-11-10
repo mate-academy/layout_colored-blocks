@@ -10,9 +10,8 @@
   background-color: blue;
 }
 
-div {
+.box {
   height: 100px;
-  width: 100%;
 }
 
 body {
