@@ -2,19 +2,19 @@ body {
   margin: 0%;
 }
 
-div {
+.block {
   height: 100px;
   margin: 0%;
 }
 
-.red-block {
+.top {
   background-color: red;
 }
 
-.green-block {
+.middle {
   background-color: green;
 }
 
-.blue-block {
+.bottom {
   background-color: blue;
 }
